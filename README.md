@@ -1,2 +1,3 @@
 # Drowsiness-and-yawn-detector
-Model develop using opencv that detects drwosiness and yawning by the help of EAR(eye aspect ratio) and MAR(mouth aspect ratio)
+Drowsiness and yawning Model developed using opencv and dlib
+It detects drwosiness and yawning using EAR(eye aspect ratio) and MAR(mouth aspect ratio)
